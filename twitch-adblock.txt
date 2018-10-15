@@ -1,3 +1,10 @@
+[Adblock Plus 2.0]
+! Version: 201810150000
+! Title: Twitch Garbage Block
+! Last modified: 15 Oct 2018 00:00 UTC
+! Expires: 7 days (update frequency)
+! Homepage: https://github.com/ultramegatom/adblock-twitch-garbage
+!
 twitch.tv##div.extension-taskbar
 twitch.tv##div.extension-frame-wrapper
 twitch.tv/*player_type=frontpage*
