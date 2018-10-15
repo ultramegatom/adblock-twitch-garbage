@@ -2,4 +2,3 @@ twitch.tv##div.extension-taskbar
 twitch.tv##div.extension-frame-wrapper
 twitch.tv/*player_type=frontpage*
 twitch.tv##.front-page-carousel
-aa
