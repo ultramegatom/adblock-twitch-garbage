@@ -10,3 +10,4 @@ twitch.tv##div.extension-frame-wrapper
 twitch.tv/*player_type=frontpage*
 twitch.tv##.front-page-carousel
 twitch.tv##.anon-front__featured-section
+twitch.tv##div[data-test-selector="test_selector_prime_tracking_button_wrapper"]
