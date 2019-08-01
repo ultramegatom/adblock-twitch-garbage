@@ -14,3 +14,6 @@ twitch.tv##div[data-test-selector="test_selector_prime_tracking_button_wrapper"]
 twitch.tv##.gdpr-consent-banner
 twitch.tv##button[data-a-target="top-nav-get-bits-button"]
 twitch.tv##div.prime-offers
+twitch.tv##div.extensions-video-overlay-size-container
+twitch.tv##div.extensions-dock__layout
+twitch.tv##div.extensions-notifications
