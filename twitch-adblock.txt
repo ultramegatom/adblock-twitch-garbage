@@ -17,3 +17,4 @@ twitch.tv##div.prime-offers
 twitch.tv##div.extensions-video-overlay-size-container
 twitch.tv##div.extensions-dock__layout
 twitch.tv##div.extensions-notifications
+twitch.tv##div.community-points-summary
