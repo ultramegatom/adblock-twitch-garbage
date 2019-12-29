@@ -20,3 +20,4 @@ twitch.tv##div.extensions-notifications
 twitch.tv##div.community-points-summary
 twitch.tv##button[data-a-target="share-button"]
 twitch.tv##button[data-a-target="bits-button"]
+twitch.tv##div.inline-private-callout-line__header
