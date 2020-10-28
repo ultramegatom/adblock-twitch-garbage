@@ -22,3 +22,4 @@ twitch.tv##button[data-a-target="share-button"]
 twitch.tv##button[data-a-target="bits-button"]
 twitch.tv##div.inline-private-callout-line__header
 twitch.tv##div.radio-content-promo__info-card--expanded
+twitch.tv##div.radio-content-promo__info-card
